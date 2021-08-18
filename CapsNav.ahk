@@ -65,3 +65,6 @@ CapsNav(action, initmod = "", mod = "+")
 KPSplashOff:
    SplashImage, off
 Return
+
+
+LShift & RShift::CapsLock
